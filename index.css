@@ -1,0 +1,9 @@
+#adder--left {
+  background-color: lightblue;
+}
+#adder--right {
+  background-color: lightyellow;
+}
+#adder--results {
+  background-color: lightgreen;
+}
